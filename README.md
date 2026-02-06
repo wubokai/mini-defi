@@ -86,4 +86,3 @@ Deploys MultiLPStaking and injects reward tokens
 Adds multiple staking pools (with different allocPoints)
 Enables Alice/Bob to stake LP tokens,
 
-Translated with DeepL.com (free version)
